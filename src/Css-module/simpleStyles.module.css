@@ -1,0 +1,11 @@
+.body{
+    line-height: 1.6;
+    font-size: 1.6rem;
+    font-family: 'roboto';
+    background-color: var(--color-bg);
+    overflow-x: hidden;
+    background: linear-gradient(rgba(59,55,53,0.5),rgba(59,55,53,0.5)) ,url('../images/bgCopy.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
